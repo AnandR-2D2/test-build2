@@ -1,0 +1,5 @@
+test-build2
+
+# Testscript output directory (can be symlink).
+#
+test-test-build2

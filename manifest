@@ -1,0 +1,11 @@
+: 1
+name: test-build2
+version: 0.1.0-a.0.z
+summary: test-build2 C++ executable
+license: other: proprietary ; Not free/open source.
+description-file: README.md
+url: https://example.org/test-build2
+email: anandramesh@Anands-MacBook-Pro.local
+depends: * build2 >= 0.13.0
+depends: * bpkg >= 0.13.0
+#depends: libhello ^1.0.0
